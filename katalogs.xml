@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <root>
     <item>
-        <name>REDMOND RMC-M90 Multivārāmais katls/Multikatls 5L 860W</name>
+        <name>REDMOND RMC-M90 Multivārāmais katls/Multikatls 5L</name>
         <link>https://multicooker.com/lv/catalog/multicookers/redmond_rmc_m90eu/</link>
         <price>159.00</price>
         <image>https://baltrade.github.io/shop/photo/RMC-M90.jpg</image>
@@ -22,7 +22,7 @@
     </item>
 
     <item>
-        <name>REDMOND RMC-M4512 Multivārāmais katls/Multikatls 5L 860W</name>
+        <name>REDMOND RMC-M4512 Multivārāmais katls/Multikatls 5L</name>
         <link>https://multicooker.com/lv/catalog/multicookers/multi-cooker-redmond-rmc-m4512/</link>
         <price>109.00</price>
         <image>https://baltrade.github.io/shop/photo/4512.jpg</image>
@@ -43,12 +43,12 @@
     </item>
 
     <item>
-        <name>REDMOND RMC-M92S Multivārāmais katls/Multikatls 5L 860W</name>
+        <name>REDMOND SkyCooker RMC-M92S Gudrais multivārāmais katls/Gudrais Multikatls 5L</name>
         <link>https://multicooker.com/lv/catalog/smart_tech/smart-multi-cooker-redmond-skycooker-m92s/</link>
         <price>169.00</price>
         <image>https://baltrade.github.io/shop/photo/922.jpg</image>
         <category_full>Virtuves tehnika &gt;&gt; Multivārāmie katli &gt;&gt; REDMOND</category_full>
-        <category_link>https://multicooker.com/lv/catalog/multicookers/</category_link>
+        <category_link>https://multicooker.com/lv/catalog/smart_tech/</category_link>
         <manufacturer>REDMOND</manufacturer>
         <model>RMC-M92S</model>
         <color>Melns / Black</color>
@@ -64,12 +64,12 @@
     </item>
 
     <item>
-        <name>REDMOND RMC-M800S Multivārāmais katls/Multikatls 5L 900W</name>
+        <name>REDMOND SkyCooker RMC-M800S Gudrais multivārāmais katls/Gudrais Multikatls 5L</name>
         <link>https://multicooker.com/lv/catalog/smart_tech/redmond-rmc-m800s/</link>
         <price>159.00</price>
         <image>https://baltrade.github.io/shop/photo/8000.jpg</image>
         <category_full>Virtuves tehnika &gt;&gt; Multivārāmie katli &gt;&gt; REDMOND</category_full>
-        <category_link>https://multicooker.com/lv/catalog/multicookers/</category_link>
+        <category_link>https://multicooker.com/lv/catalog/smart_tech/</category_link>
         <manufacturer>REDMOND</manufacturer>
         <model>RMC-M800S</model>
         <color>Melns / Black</color>
@@ -270,6 +270,7 @@
         
     </item>
 </root>
+
 
 
 
