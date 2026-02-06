@@ -85,7 +85,7 @@
     </item>
 
  <item>
-        <name>REDMOND RI-C219 Gludeklis 2400W </name>
+        <name>REDMOND RI-C219 Gludeklis 2400W</name>
         <link>https://multicooker.com/lv/catalog/irons/iron-redmond-ri-c219/</link>
         <price>45.00</price>
         <image>https://baltrade.github.io/shop/photo/219.jpg</image>
@@ -106,7 +106,7 @@
     </item>
 
  <item>
-        <name>REDMOND RMG-1208-E Gaļas maļamā mašīna 1500W </name>
+        <name>REDMOND RMG-1208-E Gaļas maļamā mašīna 1500W</name>
         <link>https://multicooker.com/lv/catalog/meat_grinders/meat-grinder-redmond-rmg-1208-e-white/</link>
         <price>79.00</price>
         <image>https://baltrade.github.io/shop/photo/1208.jpg</image>
@@ -127,7 +127,7 @@
     </item>
 
 <item>
-        <name>REDMOND RJ-916 Sulu spiede 750W </name>
+        <name>REDMOND RJ-916 Sulu spiede 750W</name>
         <link>https://multicooker.com/lv/catalog/other_kitchen_appliances/juicer-redmond-rj-916/</link>
         <price>49.00</price>
         <image>https://baltrade.github.io/shop/photo/916.jpg</image>
@@ -148,7 +148,7 @@
     </item>
 
 <item>
-        <name>REDMOND RK-M1721-E Tējkanna 2100W </name>
+        <name>REDMOND RK-M1721-E Tējkanna 2100W</name>
         <link>https://multicooker.com/lv/catalog/other_kitchen_appliances/electric-kettle-redmond-rk-m1721-e/</link>
         <price>35.00</price>
         <image>https://baltrade.github.io/shop/photo/1721.jpg</image>
@@ -167,6 +167,75 @@
         
         <adult>no</adult>
     </item>
+    <item>
+        <name>REDMOND RHP-M02 Šķiņķa presēšanas forma</name>
+        <link>https://multicooker.com/lv/catalog/accessories/ham-press-redmond-m02-e/</link>
+        <price>25.00</price>
+        <image>https://baltrade.github.io/shop/photo/rhp.jpg</image>
+        <category_full>Virtuves tehnika &gt;&gt; Aksesuāri &gt;&gt; REDMOND</category_full>
+        <category_link>https://multicooker.com/lv/catalog/accessories/</category_link>
+        
+       
+        <in_stock>5</in_stock>
+        <delivery_latvija>4.00</delivery_latvija>
+        <delivery_days_latvija>3</delivery_days_latvija>
+        <delivery_days_shop>1</delivery_days_shop>
+        <service_fee>0.00</service_fee>
+       
+        
+    </item>
+<item>
+        <name>REDMOND RB-C515 Multikatla trauks</name>
+        <link>https://multicooker.com/lv/catalog/accessories/ceramic-bowl-redmond-rb-c515/</link>
+        <price>35.00</price>
+        <image>https://baltrade.github.io/shop/photo/515.jpg</image>
+        <category_full>Virtuves tehnika &gt;&gt; Aksesuāri &gt;&gt; REDMOND</category_full>
+        <category_link>https://multicooker.com/lv/catalog/accessories/</category_link>
+        
+       
+        <in_stock>5</in_stock>
+        <delivery_latvija>4.00</delivery_latvija>
+        <delivery_days_latvija>3</delivery_days_latvija>
+        <delivery_days_shop>1</delivery_days_shop>
+        <service_fee>0.00</service_fee>
+       
+        
+    </item>
+<item>
+        <name>REDMOND RB-C530 Multikatla trauks</name>
+        <link>https://multicooker.com/lv/catalog/accessories/ceramic-bowl-redmond-rb-c530/</link>
+        <price>29.00</price>
+        <image>https://baltrade.github.io/shop/photo/530.jpg</image>
+        <category_full>Virtuves tehnika &gt;&gt; Aksesuāri &gt;&gt; REDMOND</category_full>
+        <category_link>https://multicooker.com/lv/catalog/accessories/</category_link>
+        
+       
+        <in_stock>5</in_stock>
+        <delivery_latvija>4.00</delivery_latvija>
+        <delivery_days_latvija>3</delivery_days_latvija>
+        <delivery_days_shop>1</delivery_days_shop>
+        <service_fee>0.00</service_fee>
+       
+        
+    </item>
+<item>
+        <name>REDMOND RB-A503 Multikatla trauks</name>
+        <link>https://multicooker.com/lv/catalog/accessories/non-stickc-bowl-redmond-rb-a503/</link>
+        <price>25.00</price>
+        <image>https://baltrade.github.io/shop/photo/503.jpg</image>
+        <category_full>Virtuves tehnika &gt;&gt; Aksesuāri &gt;&gt; REDMOND</category_full>
+        <category_link>https://multicooker.com/lv/catalog/accessories/</category_link>
+        
+       
+        <in_stock>5</in_stock>
+        <delivery_latvija>4.00</delivery_latvija>
+        <delivery_days_latvija>3</delivery_days_latvija>
+        <delivery_days_shop>1</delivery_days_shop>
+        <service_fee>0.00</service_fee>
+       
+        
+    </item>
 </root>
+
 
 
