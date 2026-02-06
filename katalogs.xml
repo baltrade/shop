@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <root>
     <item>
-        <name>REDMOND RMC-M90EU Multivārāmais katls 5L 860W melns</name>
+        <name>REDMOND RMC-M90 Multivārāmais katls/Multikatls 5L 860W</name>
         <link>https://multicooker.com/lv/catalog/multicookers/redmond_rmc_m90eu/</link>
         <price>159.00</price>
         <image>https://baltrade.github.io/shop/photo/RMC-M90.jpg</image>
@@ -22,7 +22,7 @@
     </item>
 
     <item>
-        <name>REDMOND RMC-M4512 Multivārāmais katls 5L 860W melns</name>
+        <name>REDMOND RMC-M4512 Multivārāmais katls/Multikatls 5L 860W</name>
         <link>https://multicooker.com/lv/catalog/multicookers/multi-cooker-redmond-rmc-m4512/</link>
         <price>109.00</price>
         <image>https://baltrade.github.io/shop/photo/4512.jpg</image>
@@ -43,7 +43,7 @@
     </item>
 
     <item>
-        <name>REDMOND RMC-M92S Multivārāmais katls 5L 860W melns</name>
+        <name>REDMOND RMC-M92S Multivārāmais katls/Multikatls 5L 860W</name>
         <link>https://multicooker.com/lv/catalog/smart_tech/smart-multi-cooker-redmond-skycooker-m92s/</link>
         <price>169.00</price>
         <image>https://baltrade.github.io/shop/photo/RMC-M92S.jpg</image>
@@ -64,7 +64,7 @@
     </item>
 
     <item>
-        <name>REDMOND RMC-M800S Multivārāmais katls 5L 900W melns</name>
+        <name>REDMOND RMC-M800S Multivārāmais katls/Multikatls 5L 900W</name>
         <link>https://multicooker.com/lv/catalog/smart_tech/redmond-rmc-m800s/</link>
         <price>159.00</price>
         <image>https://baltrade.github.io/shop/photo/800.jpg</image>
@@ -168,4 +168,5 @@
         <adult>no</adult>
     </item>
 </root>
+
 
